@@ -42,7 +42,7 @@ replace github.com/openstack-k8s-operators/osp-director-operator => ./
 
 replace k8s.io/kube-openapi => k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
 
-replace kubevirt.io/client-go => github.com/barani129/client-go v0.1.0
+replace kubevirt.io/client-go => github.com/barani129/client-go v0.1.1
 
 replace kubevirt.io/client-go/kubecli => github.com/barani129/client-go/kubecli v0.1.0
 
