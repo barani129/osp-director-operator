@@ -113,8 +113,8 @@ github.com/aws/aws-sdk-go v1.19.11/go.mod h1:KmX6BPdI08NWTb3/sm4ZGu5ShLoqVDhKgpi
 github.com/aws/aws-sdk-go v1.30.28/go.mod h1:5zCpMtNQVjRREroY7sYe8lOMRSxkhG6MZveU8YkpAk0=
 github.com/aws/aws-sdk-go v1.40.45 h1:QN1nsY27ssD/JmW4s83qmSb+uL6DG4GmCDzjmJB4xUI=
 github.com/aws/aws-sdk-go v1.40.45/go.mod h1:585smgzpB/KqRA+K3y/NL/oYRqQvpNJYvLm+LY1U59Q=
-github.com/barani129/client-go v0.1.1 h1:z4fZw704eZkThF/5Z4EkS4Y3N4rimp9GbFAmf7FbPmE=
-github.com/barani129/client-go v0.1.1/go.mod h1:jlNexHhBfOzVouZLyoQ4XhuoHlyVfyXMZvgRYn+neFs=
+github.com/barani129/client-go v0.1.2 h1:05h6qUfTjko9irFcClDT237R7upVyHh2fgdlsjSwUQk=
+github.com/barani129/client-go v0.1.2/go.mod h1:LkYb5rrRZHrVNWJZhix3/+0VNGEy2gIS79xNLT4hg1Q=
 github.com/beevik/etree v1.1.1-0.20200718192613-4a2f8b9d084c/go.mod h1:0yGO2rna3S9DkITDWHY1bMtcY4IJ4w+4S+EooZUR0bE=
 github.com/benbjohnson/clock v1.0.3/go.mod h1:bGMdMPoPVvcYyt1gHDf4J2KE153Yf9BuiUKYMaxlTDM=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
