@@ -42,9 +42,9 @@ replace github.com/openstack-k8s-operators/osp-director-operator => ./
 
 replace k8s.io/kube-openapi => k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
 
-replace kubevirt.io/client-go => github.com/barani129/client-go v0.1.2
+replace kubevirt.io/client-go => github.com/barani129/client-go v0.1.3
 
-replace kubevirt.io/client-go/kubecli => github.com/barani129/client-go/kubecli v0.1.2
+replace kubevirt.io/client-go/kubecli => github.com/barani129/client-go/kubecli v0.1.3
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
@@ -212,7 +212,6 @@ replace (
 
 	// required by kubernetes-csi/external-snapshotter, kubevirt.io/client-go. Bump to avoid CVE detection with v1.14.0: https://bugzilla.redhat.com/show_bug.cgi?id=1757701
 	// Not used within this Operator.
-	k8s.io/kubernetes => k8s.io/kubernetes v1.14.8
 
 	k8s.io/legacy-cloud-providers => k8s.io/legacy-cloud-providers v0.24.13
 	k8s.io/metrics => k8s.io/metrics v0.24.13
