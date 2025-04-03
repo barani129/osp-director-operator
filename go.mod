@@ -44,7 +44,7 @@ replace k8s.io/kube-openapi => k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a
 
 replace kubevirt.io/client-go => github.com/barani129/client-go v0.1.1
 
-replace kubevirt.io/client-go/kubecli => github.com/barani129/client-go v0.1.1
+replace kubevirt.io/client-go/kubecli => github.com/barani129/client-go/kubecli v0.1.1
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
@@ -163,8 +163,6 @@ require (
 )
 
 replace (
-	//kubevirt/client-go => kubevirt/client-go v1.5.0
-	//k8s.io/client-go/kubernetes/typed/flowcontrol/v1alpha1 => k8s.io/client-go/kubernetes/typed/flowcontrol/v1alpha1
 	github.com/containerd/containerd => github.com/containerd/containerd v1.5.7
 	// dependabot fixes
 	github.com/dgrijalva/jwt-go => github.com/golang-jwt/jwt v3.2.1+incompatible
